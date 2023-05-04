@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomSheetActivity</string>
+    <string name="tv_title">hello world</string>
+    <string name="tv_description">description</string>
+    <string name="btn_persistent">btn</string>
+    <string name="btn_modal">btn modal</string>
+</resources>
